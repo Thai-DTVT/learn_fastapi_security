@@ -7,11 +7,8 @@
 
 ## Install package
 
-- pip install fastapi
-- pip install SQLModel
-- pip install uvicorn
-- pip install pydantic
-- pip install jwt
+- poetry install 
+
 
 # Run App
 - uvicorn name_project.main:app --reload
